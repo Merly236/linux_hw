@@ -1,0 +1,79 @@
+   0 uptime
+   1 whoami
+   2 remove
+   3 rename
+   4 rename --help
+   5 move --help
+   6 move
+   7 mint
+   8 mit --help
+   9 mint --help
+  10 a
+  11 cd
+  12 cd --help
+  13 cd /
+  14 ls
+  15 ls -- help
+  16 ls -a
+  17 ls --help
+  18 ls -a
+  19 ls-l
+  20 ls -l
+  21 ls -la
+  22 ls --help
+  23 ls -la
+  24 ls -lu
+  25 cd
+  26 cd/
+  27 cd /
+  28 ls
+  29 cd /home
+  30 la -a
+  31 cd /home
+  32 mkdir user1
+  33 ls
+  34 cd user1/
+  35 mkdir task1
+  36 ls
+  37 cd task1/
+  38 touch file.txt
+  39 ls
+  40 cd
+  41 pwd
+  42 tree
+  43 clear
+  44 tree /
+  45 clear
+  46 tree /home
+  47 ls
+  48 ls /home
+  49 ls /user1
+  50 ls -r
+  51 ls -R /home
+  52 mkdir
+  53 clear
+  54 mkdir
+  55 mkdir -p /home/user2/task2
+  56 touch /home/user2/rask2/file2.txt
+  57 touch /home/user2/task2/file2/txt
+  58 touch /home/user2/task2/file2.txt
+  59 mkdir -p /home/user2/task2/ivan
+  60 -p mkdir /home/user3 /opt/user1 /tmp/user1/task1
+  61 mkdir -p /home/user3 /opt/user1 /tmp/user1/task1
+  62 tree /home/
+  63 touch /home/user3/file2.txt /opt/user1/file2/txt /tmp/user1/file2.txt
+  64 mkdir /tmp/user2/ && touch /tmp/user2/file3.txt
+  65 date
+  66 tetris
+  67 cp /home/user1/task1/file.txt /
+  68 ls /
+  69 mv /home/user2/task2/file2.txt /var/1.txt
+  70 ls /var/
+  71 clear
+  72 cp -R /home /sys/
+  73 cp -R /home /opt/
+  74 rm -rf /tmp/user1
+  75 ls /tmp/
+  76 tree /tmp/
+  77 history
+  78 history > history.txt 
